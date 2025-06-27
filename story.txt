@@ -1,0 +1,16 @@
+When Alex first started learning to code, they felt Overwhelmed!!! Python, JavaScript, HTML -- it all seemed like a DIFFERENT language. 
+But over time, they discovered that each BUG was an opportunity to grow. 💻💡
+
+"why won't this LOOP run???" they'd ask...   "oh! i forgot to indent."
+
+After weeks of debugging, testing, & building small projects, Alex finally created their first web application ---> a simple to-do list app that helped them track their progress.
+
+It wasn’t perfect, but it was THEIRS. And it worked  .
+
+Visit: http://example.com to see their first app in action!
+
+#code #developerlife *** 
+
+Alex then moved on to building bigger things...  A calculator! A blog!   And eventually, they became a full-stack developer.
+
+<div>THE END</div> 
